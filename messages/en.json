@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Yuhao Crafts Co., Ltd.",
+    "about": "About Us",
+    "products": "Products",
+    "factory": "Factory",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Craftsmanship Â· Quality Heritage",
+    "subtitle": "Yuhao Crafts Co., Ltd. - Premium Handicraft Design and Manufacturing",
+    "cta": "Learn More"
+  },
+  "home": {
+    "aboutTitle": "About Yuhao",
+    "aboutDesc": "Yuhao Crafts Co., Ltd. specializes in the design, development and manufacturing of premium handicrafts.",
+    "stats": {
+      "years": "Established",
+      "countries": "Export Countries",
+      "products": "Product Categories",
+      "factory": "Factory Area (mÂ²)"
+    },
+    "productsTitle": "Core Products",
+    "productsDesc": "Diverse product lines for various industries",
+    "factoryTitle": "Factory Scale",
+    "factoryDesc": "Modern production base with advanced manufacturing capabilities",
+    "ctaTitle": "Partner With Yuhao",
+    "ctaDesc": "Wherever you are, we look forward to building a long-term partnership with you",
+    "ctaButton": "Contact Us"
+  },
+  "about": {
+    "title": "About Yuhao",
+    "subtitle": "Heritage of Craftsmanship, Excellence in Quality",
+    "intro": "Since our establishment, we have adhered to the philosophy of 'Quality First, Customer Foremost', continuously introducing advanced technology and management practices. Our products are exported to numerous countries and regions worldwide.",
+    "mission": "Our Mission",
+    "missionText": "Drive development through innovation, win markets through quality",
+    "vision": "Our Vision",
+    "visionText": "Become a leading global manufacturing service provider",
+    "history": "Our Journey"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Comprehensive product lines, full-service solutions",
+    "all": "All",
+    "category": "Category",
+    "inquiry": "Request Quote"
+  },
+  "factory": {
+    "title": "Factory Scale",
+    "subtitle": "Modern production base â€” strength you can see",
+    "area": "Total Area",
+    "workshop": "Workshops",
+    "lines": "Production Lines",
+    "workers": "Employees",
+    "equipment": "Core Equipment",
+    "capacity": "Annual Capacity",
+    "quality": "Quality Management",
+    "qualityText": "ISO9001 Certified Quality Management System",
+    "gallery": "Factory Gallery"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We look forward to working with you",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company",
+    "message": "Message",
+    "submit": "Submit",
+    "success": "Submitted successfully! We will contact you soon.",
+    "address": "Address",
+    "addressValue": "Yuhao Crafts Co., Ltd.",
+    "phoneLabel": "Phone",
+    "phoneValue": "+86 571-8888-8888",
+    "emailLabel": "Email",
+    "emailValue": "info@example.com"
+  },
+  "footer": {
+    "rights": "All Rights Reserved",
+    "sitemap": "Sitemap"
+  }
+}
